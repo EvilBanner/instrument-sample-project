@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: patri
-  Date: 23.03.2020
-  Time: 13:38
+  Date: 25.03.2020
+  Time: 13:25
   To change this template use File | Settings | File Templates.
 --%>
 <%@page contentType="text/html;charset=utf-8" pageEncoding="UTF-8" %>
@@ -11,7 +11,7 @@
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/musician.css"/>
 <html>
 <head>
-    <title>Person list</title>
+    <title>Instruments</title>
 </head>
 <body>
 <h2>Musicians</h2>
@@ -19,21 +19,21 @@
 
     <thead>
     <tr class="thDisplay">
-        <th>Musician id</th>
-        <th>Musician name</th>
+        <th>Instrument id</th>
+        <th>Instrument name</th>
         <th>Country</th>
         <th>Delete</th>
         <th>Edit</th>
     </tr>
     </thead>
     <tbody>
-    <c:forEach items="${musicians}" var="musician" >
+    <c:forEach items="${allInstruments}" var="instrument" >
         <tr>
-            <td>${musician.id}</td>
-            <td>${musician.name}</td>
-            <td>${musician.country}</td>
-            <td><a href="./delete/${musician.id}">Delete</a></td>
-            <td><a href="./edit/${musician.id}">Edit</a></td>
+            <td>${instrument.id}</td>
+            <td>${instrument.name}</td>
+            <td>${instrument.country}</td>
+            <td><a href="./delete/${instrument.id}">Delete</a></td>
+            <td><a href="./edit/${instrument.id}">Edit</a></td>
         </tr>
     </c:forEach>
     </tbody>
@@ -42,7 +42,7 @@
 
 
 
-<a href="${pageContext.request.contextPath}index">Homepage</a>
-<a href="./new">Create new Musician</a>
+<a href="../">Homepage</a>
+<a href="./new">Create new Instrument</a>
 </body>
 </html>

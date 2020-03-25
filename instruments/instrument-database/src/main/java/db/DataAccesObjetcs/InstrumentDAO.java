@@ -23,4 +23,6 @@ public interface InstrumentDAO {
     void deleteInstrument(Instrument instrument);
 
     void updateInstrument(Instrument instrument);
+
+    List<Instrument> getAllInstruments();
 }

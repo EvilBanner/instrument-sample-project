@@ -89,4 +89,11 @@ public class InstrumentDAOImpl implements InstrumentDAO {
         log.info("Updating instrument");
         entityManager.merge(instrument);
     }
+
+    @Override
+    public List<Instrument> getAllInstruments() {
+        return entityManager
+                .createQuery("from Instrument", Instrument.class)
+                .getResultList();
+    }
 }

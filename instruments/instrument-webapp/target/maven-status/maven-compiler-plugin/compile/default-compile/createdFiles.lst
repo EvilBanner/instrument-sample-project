@@ -2,6 +2,7 @@ services\CanPlayService.class
 services\CanPlayServiceImpl.class
 constants\URLConstants.class
 forms\MusicianValidator.class
+controllers\InstrumentController.class
 services\InstrumentService.class
 config\Config.class
 controllers\MusicianController.class

@@ -20,4 +20,6 @@ public interface InstrumentService {
     List<Instrument> findByCountry(String countryName);
 
     void update(Instrument instrument);
+
+    List<Instrument> findAll();
 }

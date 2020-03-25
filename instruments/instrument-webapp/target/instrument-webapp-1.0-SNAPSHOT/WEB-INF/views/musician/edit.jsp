@@ -13,7 +13,7 @@
     <title>Edit musician</title>
 </head>
 <body>
-<form:form method="post" modelAttribute="musicianEditedForm" action="${pageContext.request.contextPath}/musician/save" >
+<form:form method="post" modelAttribute="musicianEditedForm" action="${pageContext.request.contextPath}/musician/${musicianEditedForm.id}/save" >
 
     <table >
         <tr>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="dbTest.MusicianDAOImplTest" time="0.218" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="dbTest.MusicianDAOImplTest" time="0.21" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11+28"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\patri\instruments"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\patri\instrument-sample-project\instruments"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="CZ"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\patri\instruments"/>
+    <property name="user.dir" value="C:\Users\patri\instrument-sample-project\instruments"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="11+28"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -46,7 +46,7 @@
     <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3.4 --offline install"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3.4 install"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
     <property name="user.language" value="cs"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -64,9 +64,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByIdTest" time="0.062"/>
-  <testcase classname="dbTest.MusicianDAOImplTest" name="testDelete" time="0.032"/>
-  <testcase classname="dbTest.MusicianDAOImplTest" name="testUpdate" time="0.062"/>
-  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByName" time="0.031"/>
-  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByCountry" time="0.031"/>
+  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByIdTest" time="0.052"/>
+  <testcase classname="dbTest.MusicianDAOImplTest" name="testDelete" time="0.028"/>
+  <testcase classname="dbTest.MusicianDAOImplTest" name="testUpdate" time="0.071"/>
+  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByName" time="0.033"/>
+  <testcase classname="dbTest.MusicianDAOImplTest" name="getMusicianByCountry" time="0.026"/>
 </testsuite>

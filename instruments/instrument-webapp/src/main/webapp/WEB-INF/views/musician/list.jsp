@@ -23,6 +23,7 @@
         <th>Musician name</th>
         <th>Country</th>
         <th>Delete</th>
+        <th>Edit</th>
     </tr>
     </thead>
     <tbody>
@@ -41,7 +42,7 @@
 
 
 
-<a href="${pageContext.request.contextPath}/">Homepage</a>
+<a href="${pageContext.request.contextPath}index">Homepage</a>
 <a href="./new">Create new Musician</a>
 </body>
 </html>

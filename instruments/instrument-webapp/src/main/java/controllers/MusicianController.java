@@ -49,7 +49,7 @@ public class MusicianController {
 
     @RequestMapping("/")
     public String home(){
-        return "homepage";
+        return "index";
     }
 
     @RequestMapping(path = "/musician/delete/{id}", method = RequestMethod.GET )

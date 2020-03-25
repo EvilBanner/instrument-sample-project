@@ -45,4 +45,9 @@ public class InstrumentServiceImpl implements InstrumentService{
     public void update(Instrument instrument) {
         instrumentDAO.updateInstrument(instrument);
     }
+
+    @Override
+    public List<Instrument> findAll() {
+        return instrumentDAO.getAllInstruments();
+    }
 }

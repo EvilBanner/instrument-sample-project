@@ -6,6 +6,7 @@
   Time: 13:52
   To change this template use File | Settings | File Templates.
 --%>
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/musician.css"/>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -14,7 +15,7 @@
 <body>
 
 <h1>Instrument and Band Database</h1>
-<a href="musician/list">View all musician</a>
+<a href="musician/list">View all musicians</a>
 <a href="musician/new">Create new musician</a>
 
 </body>
