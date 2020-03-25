@@ -1,0 +1,42 @@
+h2 {
+    font-family: Cambria;
+    align-content: center;
+}
+
+table.display {
+    width:65%;
+    text-align: left;
+    border: thin solid #bbbbbb;
+}
+table.input {
+    width:50%;
+    text-align: left;
+    border: thin solid #bbbbbb;
+}
+td {
+    padding: 2px;
+    font-family: Cambria;
+    font-weight: normal;
+}
+.thDisplay {
+    padding: 2px;
+    background-color: #0088ff;
+    font-family: Cambria;
+    font-weight: bold;
+}
+.thForm {
+    padding: 2px;
+    background-color: #a9c0ff;
+    font-family: Cambria;
+    font-weight: bold;
+}
+.wideInput {
+    width: 100%;
+}
+.errorMessage {
+    font-family: Calibri;
+    color: red;
+    padding-bottom: 8px;
+    padding-top: 4px;
+    padding-left: 2px;
+}

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec0b7ec-34cc-42a3-a967-d1a713750b47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="default/Hibernate" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="persistence-instrument" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="persistence-instrument" type="feb32156:DbDataSourceImpl" />
+        <item name="MYDB: database" type="2aa06773:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="persistence-instrument" type="feb32156:DbDataSourceImpl" />
+        <item name="MYDB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="musician: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQq5ypxBgdgMD0y0p43OERG8Xg" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Hibernate</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;derby&#10;h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584750475016" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pv168_seminarproject/MainProject/bookrental-backend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.20574713" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp\WEB-INF\views\person\${pageContext.request.contextPath}\static" />
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp\static" />
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp" />
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp\WEB-INF\views\person" />
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\webapp\resources" />
+      <recent name="C:\Users\patri\instruments\instrument-webapp\src\main\java" />
+      <recent name="C:\Users\patri\instruments\BackEnd\src\main\resources" />
+      <recent name="C:\Users\patri\instruments\BackEnd" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/resources" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="instrument-webapp [cargo:run]" />
+      <command value="mvn cargo:run -X" />
+      <command value="mvn clean install -X" />
+      <command value="mvn mvn spring-boot:run" />
+      <command value="mvn mvn spring-boot:run -X" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.instrument-webapp [spring-boot:run]">
+    <configuration name="InstrumentDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Instruments-backEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbTest" />
+      <option name="MAIN_CLASS_NAME" value="dbTest.InstrumentDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="instrument-database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dbTest" />
+      <option name="MAIN_CLASS_NAME" value="dbTest.MusicianDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="instrument-webapp [cargo:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="cargo:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/instrument-webapp" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="instrument-webapp [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/instrument-webapp" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="WebbAppRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="instrument-webapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initializer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="config.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="initializer.WebbAppRunner" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.InstrumentDAOImplTest" />
+      <item itemvalue="JUnit.MusicianDAOImplTest" />
+      <item itemvalue="Maven.instrument-webapp [cargo:run]" />
+      <item itemvalue="Maven.instrument-webapp [spring-boot:run]" />
+      <item itemvalue="Spring Boot.WebbAppRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.instrument-webapp [spring-boot:run]" />
+        <item itemvalue="JUnit.MusicianDAOImplTest" />
+        <item itemvalue="Spring Boot.WebbAppRunner" />
+        <item itemvalue="Maven.instrument-webapp [cargo:run]" />
+        <item itemvalue="JUnit.InstrumentDAOImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec0b7ec-34cc-42a3-a967-d1a713750b47" name="Default Changelist" comment="" />
+      <created>1584645006899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584645006899</updated>
+      <workItem from="1584645009833" duration="3467000" />
+      <workItem from="1584699650411" duration="37026000" />
+      <workItem from="1584781490994" duration="29890000" />
+      <workItem from="1584814804974" duration="3167000" />
+      <workItem from="1584817988438" duration="2596000" />
+      <workItem from="1584877493253" duration="5143000" />
+      <workItem from="1584883577783" duration="1977000" />
+      <workItem from="1584885568121" duration="24509000" />
+      <workItem from="1584956786820" duration="6697000" />
+      <workItem from="1584963503022" duration="41000" />
+      <workItem from="1584964854543" duration="9746000" />
+      <workItem from="1584975578675" duration="14697000" />
+      <workItem from="1584990752513" duration="13123000" />
+      <workItem from="1585132204535" duration="1929000" />
+      <workItem from="1585134294934" duration="3202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Assign_Data_Sources" timestamp="1584999752822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1584999752822" />
+    <state x="361" y="71" key="#Assign_Naming_Strategies..." timestamp="1584797500218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Assign_Naming_Strategies.../0.0.1536.824@0.0.1536.824" timestamp="1584797500218" />
+    <state x="365" y="117" key="#PersonDAOImplTest" timestamp="1584811812297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="117" key="#PersonDAOImplTest/0.0.1536.824@0.0.1536.824" timestamp="1584811812297" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1584979005390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584979005390" />
+    <state x="507" y="83" width="937" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584957986913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="83" width="937" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584957986913" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584815889243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1584815889243" />
+    <state x="576" y="289" width="635" height="245" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584785261717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="289" width="635" height="245" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1584785261717" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1585132491475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585132491475" />
+    <state x="706" y="199" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584957968136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="706" y="199" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584957968136" />
+    <state x="706" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584957936542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="706" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584957936542" />
+    <state x="361" y="71" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1584914367523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1584914367523" />
+    <state x="475" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584884773798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="328" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584884773798" />
+    <state x="541" y="272" width="453" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585133935549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="272" width="453" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585133935549" />
+    <state x="486" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584981893306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1584981893306" />
+    <state x="387" y="64" key="#instrument-webapp_[cargo:run]" timestamp="1584913351473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="64" key="#instrument-webapp_[cargo:run]/0.0.1536.824@0.0.1536.824" timestamp="1584913351473" />
+    <state x="668" y="165" key="#xdebugger.XInspectDialog" timestamp="1584798956727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1584798956727" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584991420123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584991420123" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1585137316131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585137316131" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1585137316131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585137316131" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1585137316131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585137316131" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1585137316131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585137316131" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1585134145284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585134145284" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1585134145283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585134145283" />
+    <state width="746" height="261" key="GridCell.Tab.3.bottom" timestamp="1584926578035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584926578035" />
+    <state width="746" height="261" key="GridCell.Tab.3.center" timestamp="1584926578035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1584926578035" />
+    <state width="746" height="261" key="GridCell.Tab.3.left" timestamp="1584926578035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1584926578035" />
+    <state width="746" height="261" key="GridCell.Tab.3.right" timestamp="1584926578035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1584926578035" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1584809922329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1584809922329" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1584885783265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584885783265" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1584882859465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584882859465" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1584960026913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1584960026913" />
+    <state x="266" y="4" width="1038" height="820" key="SettingsEditor" timestamp="1584999769863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="266" y="4" width="1038" height="820" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584999769863" />
+    <state x="667" y="302" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584781780089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="667" y="302" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1584781780089" />
+    <state x="485" y="136" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584961991355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="136" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584961991355" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585134295148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585134295148" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1584816154568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1584816154568" />
+    <state x="209" y="33" key="new project wizard" timestamp="1584884611581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584884611581" />
+    <state x="640" y="324" width="672" height="677" key="run.anything.popup" timestamp="1584993625405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="324" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584993625405" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584882932869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584882932869" />
+    <state x="449" y="95" key="spring file set editor" timestamp="1584894099017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1584894099017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/instrument-webapp/src/main/java/services/MusicianServiceImpl.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/instrument-database/src/test/java/dbTest/MusicianDAOImplTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="exec:java -P hsqldb" />
+  </component>
+</project>
